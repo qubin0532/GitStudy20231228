@@ -1,0 +1,41 @@
+{
+  "scanned": true,
+  "reminders": {
+    "2023-12-28.md": [
+      {
+        "title": "发布2023年12月校园卡充值通知",
+        "time": "2024-01-02",
+        "rowNumber": 2
+      },
+      {
+        "title": "值班，提前做好准备。",
+        "time": "2024-01-09",
+        "rowNumber": 1
+      },
+      {
+        "title": "让学生把几本青岛年鉴搬过去了，记得归档。",
+        "time": "2024-01-14 16:00",
+        "rowNumber": 0
+      }
+    ]
+  },
+  "debug": false,
+  "settings": {
+    "reminderTime": "09:00",
+    "laters": "In 30 minutes\nIn 1 hour\nIn 3 hours\nTomorrow\nNext week",
+    "useSystemNotification": false,
+    "autoCompleteTrigger": "(@",
+    "primaryReminderFormat": "ReminderPluginReminderFormat",
+    "enableReminderPluginReminderFormat": true,
+    "dateFormat": "YYYY-MM-DD",
+    "dateTimeFormat": "YYYY-MM-DD HH:mm",
+    "strictDateFormat": false,
+    "linkDatesToDailyNotes": false,
+    "enableTasksPluginReminderFormat": false,
+    "useCustomEmojiForTasksPlugin": false,
+    "removeTagsForTasksPlugin": false,
+    "enableKanbanPluginReminderFormat": false,
+    "editDetectionSec": 10,
+    "reminderCheckIntervalSec": 5
+  }
+}
