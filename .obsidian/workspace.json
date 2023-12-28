@@ -140,6 +140,8 @@
   },
   "active": "df766429664e2b63",
   "lastOpenFiles": [
+    "gti学习过程.txt",
+    "aboutssh.md",
     "081.git config，配置Git.md",
     "080. Git常用命令，基于使用步骤.md",
     "070.Git存储.md",
@@ -164,8 +166,6 @@
     "035.推送 git push.md",
     "034.拉取 git pull.md",
     "033.获取远端仓库代码 git fetch.md",
-    "02206. description.md",
-    "02207.hooks目录.md",
     "Pasted image 20231228092749.png",
     "Pasted image 20231228090425.png"
   ]

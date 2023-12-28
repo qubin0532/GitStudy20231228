@@ -1,0 +1,161 @@
+1.git config
+git config --global user.name "qubin"
+git config --global user.mail "qubin05323329@gmail.com"
+
+git config --global user.name "qubin"
+git config --global user.mail "qubin05323329@gmail.com"
+
+2.配置文件位置：
+~/.gitconfig
+
+cat ~/.gitconfig
+注意：
+在配置文件中，可以使用ALIAS配置命令的别名
+
+3.建立文件夹
+4.建立仓库(初始化一个git仓库)
+git init
+
+执行结果：
+$ git init
+Initialized empty Git repository in D:/temp/gitlearn/git-tutorial/.git/
+
+5.git add file
+6.git rm --cached <file>..."
+ (use "git rm --cached <file>..." to unstage)
+撤消加入的操作
+
+留意命令：git reset
+消除commit以后下一次提交以前的操作
+
+7.git add -A
+<=>git add -all
+
+Git远程仓库
+Git 并不像 SVN 那样有个中心服务器。目前我们使用到的 Git 命令都是在本地执行，如果你想通过 Git 分享你的代码或者与其他开发人员合作。 你就需要将数据放到一台其他开发人员能够连接的服务器上。
+
+1.添加远程仓库
+git remote add [shortname] [url] 
+git remote rm name  
+git remote rename old_name new_name  
+2.查看远端仓库
+$ git remote
+origin
+$ git remote -v
+origin    git@github.com:tianqixin/runoob-git-test.git (fetch)
+origin    git@github.com:tianqixin/runoob-git-test.git (push)
+3.获取远端仓库代码 git fetch
+$ git fetch <远程主机名> <远程分支名>:<本地分支名>
+不填的话都是默认
+
+4.拉取 git pull
+git pull <远程主机名> <远程分支名>:<本地分支名>
+
+$ git pull --allow-unrelated-histories
+git pull操作其实是git fetch 与 git merge 两个命令的集合。 git fetch 和 git merge FETCH_HEAD 的简写。
+
+相关文档：https://www.runoob.com/git/git-remote-repo.html
+
+5.推送 git push
+$ git push <远程主机名> <本地分支名>:<远程分支名>
+
+$ git push --force origin master
+
+$ git push origin --delete master
+
+$ git push --allow-unrelated-histories
+
+
+
+8.git commit -m "commit text"
+
+9.git remote add origin http://192.168.2.45/qubin/test20231223.git
+注意命令是：git remote add
+
+10.$ git remote -v
+origin  http://192.168.2.45/qubin/test20231223.git (fetch)
+origin  http://192.168.2.45/qubin/test20231223.git (push)
+
+11.$ git push origin master
+fatal: Unencrypted HTTP is not supported for GitHub. Ensure the repository remote URL is using HTTPS.
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 235 bytes | 235.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+remote:
+remote: To create a merge request for master, visit:
+remote:   http://192.168.2.45/qubin/test20231223/-/merge_requests/new?merge_request%5Bsource_branch%5D=master
+remote:
+To http://192.168.2.45/qubin/test20231223.git
+ * [new branch]      master -> master
+
+12.git remote -u origin master
+
+注意 -u 参数的目的，是把这个短名称设置为默认。
+
+13.git clone 仓库地址
+
+
+分支
+
+基本命令：
+git branch
+
+1.git branch feature1
+建立一个名叫feature1的分支
+
+2.git checkout feature1
+切换分支
+
+3.git checkout -b feature3
+创建且跳转到feature3分支
+-b 即：branch
+
+4.git branch -d feature2
+删除feature2分支
+
+5.git merge feature3
+合并分支命令
+
+6.上传远端分支
+git push origin feature1
+
+7.删除远端分支
+git push origin :feature1
+在分支名前面加一个冒号就可以删除。
+
+8.在远端使用不同的分支名字
+$ git push origin feature1:f1
+Total 0 (delta 0), reused 0 (delta 0), pack-reused 0
+remote:
+remote: To create a merge request for f1, visit:
+remote:   http://192.168.2.45/qubin/test20231223/-/merge_requests/new?merge_request%5Bsource_branch%5D=f1
+remote:
+To http://192.168.2.45/qubin/test20231223.git
+ * [new branch]      feature1 -> f1
+
+
+04.git中的合并操作
+
+1.查看日志
+git log
+
+git log --oneline
+
+2.修改察看日志命令：
+在~/.gitconfig文件中的alias总分中添加语句
+dog = log --all --decorate --oneline --graph
+注意：所有的参数都是两个-号，少了会报错。
+
+3.git merge --no-ff
+4.git rebase
+
+5.git mergetool
+
+
+
+
+
+
+
+
