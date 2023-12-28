@@ -4,119 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ab68480dade09b3c",
+        "id": "82fac1f32b5f5f0c",
         "type": "tabs",
         "children": [
           {
-            "id": "07d016af07dff5a3",
+            "id": "df766429664e2b63",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02206. description.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc8c944e613859b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02207.hooks目录.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "43b342b9815ef668",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02208.info目录.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4eb6b1cae12b2c13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02209.logs目录.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "518cdb6fd44142d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02210.objects目录.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d2ace34483d2a990",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02211.文件夹refs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fdd658a0e9ee03e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02212. index文件.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "470d4e01fde1af1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "030 .Git远程仓库.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "19b00cae79a70b00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "031.添加远程仓库.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "031.添加远程仓库.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "031.添加远程仓库.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "031.添加远程仓库.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -243,33 +138,35 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "19b00cae79a70b00",
+  "active": "df766429664e2b63",
   "lastOpenFiles": [
-    "030 .Git远程仓库.md",
-    "031.添加远程仓库.md",
-    "02212. index文件.md",
-    "02211.文件夹refs.md",
-    "02210.objects目录.md",
-    "02209.logs目录.md",
-    "02208.info目录.md",
-    "02207.hooks目录.md",
+    "081.git config，配置Git.md",
+    "080. Git常用命令，基于使用步骤.md",
+    "070.Git存储.md",
+    "065.查看标签.md",
+    "064.删除远程标签.md",
+    "063.删除标签.md",
+    "062.提交标签到远程仓库.md",
+    "061.添加标签.md",
+    "060.Git 标签.md",
+    "053.命令.md",
+    "052.原理.md",
+    "051.介绍.md",
+    "050git rebase 变基.md",
+    "032.查看远端仓库.md",
+    "042.切换分支命令 git checkout.md",
+    "045.重命名分支 git branch -M.md",
+    "045.分支列表 git branch.md",
+    "044.删除分支 git branch -d.md",
+    "043.合并分支命令 git merge.md",
+    "041.创建分支命令 git branch.md",
+    "040.Git 分支.md",
+    "035.推送 git push.md",
+    "034.拉取 git pull.md",
+    "033.获取远端仓库代码 git fetch.md",
     "02206. description.md",
-    "02205. config.md",
-    "02204. FETCH_HEAD.md",
-    "02203. ORIG_HEAD.md",
-    "02202. HEAD.md",
-    "022. .git目录.md",
+    "02207.hooks目录.md",
     "Pasted image 20231228092749.png",
-    "02201. 文件 COMMIT_EDITMSG.md",
-    "000.Git从入门到精通，Git命令大全（目录）.md",
-    "021. .gitignore.md",
-    "010. Git入门.md",
-    "020Git项目文件说明.md",
-    "014.git重命名检测.md",
-    "013.HEAD是什么.md",
-    "012.Git文件状态.md",
-    "011.Git工作区、暂存区和版本、远程仓库.md",
-    "Pasted image 20231228090425.png",
-    "修改main分支为master分支后的github给出的提示信息.md"
+    "Pasted image 20231228090425.png"
   ]
 }
