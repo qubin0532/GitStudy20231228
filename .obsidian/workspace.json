@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "ddb80abeefcb9bf7",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec69e9d0ee437290",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "639fc743ab6ebe92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "修改main分支为master分支后的github给出的提示信息.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "708430fda448950b",
+    "type": "split",
+    "children": [
+      {
+        "id": "3217ddeb158c1ad9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34cf3210bf159c10",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5b841cd4a4096527",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "12bd1078ea8f4236",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2291b604d11cb157",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c18f862f8bb88e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbc38b59b335f02b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "修改main分支为master分支后的github给出的提示信息.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a870df5479b4348a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "修改main分支为master分支后的github给出的提示信息.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c535e0a368ce6a3f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "501c699bc3b27487",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "修改main分支为master分支后的github给出的提示信息.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "639fc743ab6ebe92",
+  "lastOpenFiles": [
+    "修改main分支为master分支后的github给出的提示信息.md"
+  ]
+}
