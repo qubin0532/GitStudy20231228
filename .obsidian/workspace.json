@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-12-28.md",
+                "file": "2023-12-29.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-12-28.md",
+                "file": "2023-12-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-12-28.md",
+                "file": "2023-12-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-12-28.md"
+                "file": "2023-12-29.md"
               }
             }
           },
@@ -168,6 +168,7 @@
   "active": "8dc9c9b08a2ab055",
   "lastOpenFiles": [
     "2023-12-28.md",
+    "2023-12-29.md",
     "400Calendar/2024-01-02 发布校园卡充值通知.md",
     "400Calendar/2024-01-09 值班，提前做好准备.md",
     "400Calendar",
@@ -197,7 +198,6 @@
     "Git学习笔记/014.git重命名检测.md",
     "Git学习笔记/013.HEAD是什么.md",
     "Git学习笔记/012.Git文件状态.md",
-    "Git学习笔记/011.Git工作区、暂存区和版本、远程仓库.md",
     "Git学习笔记",
     "GitStudying",
     "gti学习过程.txt",
