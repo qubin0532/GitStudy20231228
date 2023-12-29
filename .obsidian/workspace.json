@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000Git学习笔记/040.Git 分支.md",
+                "file": "2023-12-29.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000Git学习笔记/040.Git 分支.md",
+                "file": "2023-12-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000Git学习笔记/040.Git 分支.md",
+                "file": "2023-12-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000Git学习笔记/040.Git 分支.md"
+                "file": "2023-12-29.md"
               }
             }
           },
@@ -176,10 +176,11 @@
   },
   "active": "bbb6052fe4913107",
   "lastOpenFiles": [
+    "2023-12-28.md",
+    "2023-12-29.md",
+    "000Git学习笔记/040.Git 分支.md",
     "000Git学习笔记/013.HEAD是什么.md",
     "000Git学习笔记/000.Git从入门到精通，Git命令大全（目录）.md",
-    "2023-12-29.md",
-    "2023-12-28.md",
     "400Calendar/2024-01-02 发布校园卡充值通知.md",
     "400Calendar/2024-01-09 值班，提前做好准备.md",
     "400Calendar",
@@ -206,7 +207,6 @@
     "Git学习笔记/021. .gitignore.md",
     "Git学习笔记/020Git项目文件说明.md",
     "Git学习笔记/014.git重命名检测.md",
-    "Git学习笔记/013.HEAD是什么.md",
     "Git学习笔记",
     "GitStudying",
     "gti学习过程.txt",
