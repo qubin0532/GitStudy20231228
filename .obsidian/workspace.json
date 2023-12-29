@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "61c4502ce1949481",
+        "id": "eccaf1bb2c4ce2e6",
         "type": "tabs",
         "children": [
           {
-            "id": "8dc9c9b08a2ab055",
+            "id": "bbb6052fe4913107",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-12-28.md",
+                "file": "000Git学习笔记/040.Git 分支.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-12-28.md",
+                "file": "000Git学习笔记/040.Git 分支.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-12-28.md",
+                "file": "000Git学习笔记/040.Git 分支.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-12-28.md"
+                "file": "000Git学习笔记/040.Git 分支.md"
               }
             }
           },
@@ -144,9 +144,17 @@
               "type": "FANTASY_CALENDAR",
               "state": {}
             }
+          },
+          {
+            "id": "f6fb3326ae8d7b18",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -162,16 +170,19 @@
       "command-palette:打开命令面板": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-day-planner:Timeline": false,
-      "fantasy-calendar:Open Large Fantasy Calendar": false
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8dc9c9b08a2ab055",
+  "active": "bbb6052fe4913107",
   "lastOpenFiles": [
+    "000Git学习笔记/013.HEAD是什么.md",
+    "000Git学习笔记/000.Git从入门到精通，Git命令大全（目录）.md",
+    "2023-12-29.md",
     "2023-12-28.md",
     "400Calendar/2024-01-02 发布校园卡充值通知.md",
     "400Calendar/2024-01-09 值班，提前做好准备.md",
     "400Calendar",
-    "000Git学习笔记/000.Git从入门到精通，Git命令大全（目录）.md",
     "000Git学习笔记/033.获取远端仓库代码.md",
     "Accessories",
     "files",
@@ -196,8 +207,6 @@
     "Git学习笔记/020Git项目文件说明.md",
     "Git学习笔记/014.git重命名检测.md",
     "Git学习笔记/013.HEAD是什么.md",
-    "Git学习笔记/012.Git文件状态.md",
-    "Git学习笔记/011.Git工作区、暂存区和版本、远程仓库.md",
     "Git学习笔记",
     "GitStudying",
     "gti学习过程.txt",
